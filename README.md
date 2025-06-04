@@ -19,7 +19,7 @@ _The following are brief comments for the **data**, which are generated from **c
 **new_seasonal_data.mat**: rainfall and temperature data\
 **rain_2019.mat**: rainfall data in 2019\
 **rain_2020.mat**: rainfall data in 2020 before observation \
-**rain_data.mat**: rainfall data in observation period\
+**rain_data.mat**: rainfall data in observation period \
 
 _The following are brief comments for plotting figure used in GRL_\
 **Plot_dv_v_all_TF_cmp_colorbar.m**: Visualizes seismic velocity changes across different components (Ur, Rr, Tr, Ut, Rt, Tt) over time\
