@@ -6,9 +6,9 @@ This project provides a toolkit to help researchers with **ACROSS data analysis 
 Considering the manual time correction required for raw data processing and transfer function generation, we start with the processed transfer functions as our baseline. This data can be downloaded from [Mendeley Data](https://data.mendeley.com/preview/p7nw36tbbf?a=67361f27-f595-4482-a322-f00a0f994cab), which includes one month of data. Given the substantial volume of data, additional data can be obtained by contacting the <ins>corresponding author<ins>.
 
 **Extract_transfer_function**: The hourly transfer function can be compiled and saved for next step.\
-**Select_transfer_function_Sum_power_spetral_time_ver_XX** :To filter for higher signal-to-noise ratio data and stack them to obtain daily and reference data for subsequent velocity change calculations in **XX** component of transfer function.\ (Output: you can download from [here](https://data.mendeley.com/preview/p7nw36tbbf?a=67361f27-f595-4482-a322-f00a0f994cab))
-**Cal_dv_v_stretch_XX**: To calculate velocity changes (dv/v) for **XX** componnet .\ (Output: **dv_v_XX**)
-**Cal_dv_v_PPC_Relation_z_2019_2021_XX**: To simulatite horizontal or vertical components.\ (Output: you can download from [here](https://data.mendeley.com/preview/p7nw36tbbf?a=67361f27-f595-4482-a322-f00a0f994cab))
+**Select_transfer_function_Sum_power_spetral_time_ver_XX** :To filter for higher signal-to-noise ratio data and stack them to obtain daily and reference data for subsequent velocity change calculations in **XX** component of transfer function.(Output: you can download from [here](https://data.mendeley.com/preview/p7nw36tbbf?a=67361f27-f595-4482-a322-f00a0f994cab))\ 
+**Cal_dv_v_stretch_XX**: To calculate velocity changes (dv/v) for **XX** componnet. (Output: **dv_v_XX**)\ 
+**Cal_dv_v_PPC_Relation_z_2019_2021_XX**: To simulatite horizontal or vertical components.(Output: you can download from [here](https://data.mendeley.com/preview/p7nw36tbbf?a=67361f27-f595-4482-a322-f00a0f994cab))\
 
 **Coda_XX**: Measured end time of coda wave in **XX** component.\
 **dv_v_XX**: Measured seismic velocity changes in **XX** component.\
