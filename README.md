@@ -3,7 +3,7 @@ A program collection for ACROSS data analysis and visualization
 
 This project provides a toolkit to help researchers with **ACROSS data analysis and visualization**. Due to the large size of the datasets, we have stored the data separately. This repository primarily contains the programs and scripts we use for data processing and visualization.
 
-Due to the manual quality control required for raw data processing and transfer function generation (including verification of source oscillation frequency, weight phase, and seismometer operational status) , we start with the processed transfer functions as our baseline. This data can be downloaded from [Mendeley Data](https://data.mendeley.com/preview/p7nw36tbbf?a=67361f27-f595-4482-a322-f00a0f994cab), which includes one month of data. Given the substantial volume of data, additional data can be obtained by contacting the *corresponding author*.
+Due to the manual quality control required for raw data processing and transfer function generation (including verification of source oscillation frequency, weight phase, and seismometer operational status) , we start with the processed transfer functions as our baseline. This data can be downloaded from [Mendeley Data](data.mendeley.com/preview/p7nw36tbbf?a=373f3eb2-7963-49ac-9005-5fd84556772b) for 2020.10~2021.5 and [Mendeley Data](data.mendeley.com/preview/vkxs7nh7wd?a=2085f575-0a33-46ea-afb1-308d65ba0bc5) for 2021.6~2021.8.
 
 ##  Code Analysis Programs
 _The following are brief descriptions of the data analysis programs in **code_analysis** folder. Some results are saved in the **data** folder, while others require separate downloads due to file size constraints._\
